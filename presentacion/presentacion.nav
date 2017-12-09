@@ -19,8 +19,15 @@
 \headcommand {\beamer@framepages {6}{6}}
 \headcommand {\slideentry {2}{1}{4}{7/7}{M\IeC {\'e}todos}{0}}
 \headcommand {\beamer@framepages {7}{7}}
-\headcommand {\beamer@partpages {1}{7}}
-\headcommand {\beamer@subsectionpages {4}{7}}
-\headcommand {\beamer@sectionpages {4}{7}}
-\headcommand {\beamer@documentpages {7}}
-\headcommand {\def \inserttotalframenumber {7}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{8}{Netlogo}}\headcommand {\beamer@subsectionpages {4}{7}}
+\headcommand {\slideentry {2}{2}{1}{8/8}{Netlogo}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\slideentry {2}{2}{2}{9/9}{Netlogo}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\slideentry {2}{2}{3}{10/10}{Netlogo}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\beamer@partpages {1}{10}}
+\headcommand {\beamer@subsectionpages {8}{10}}
+\headcommand {\beamer@sectionpages {4}{10}}
+\headcommand {\beamer@documentpages {10}}
+\headcommand {\def \inserttotalframenumber {10}}
