@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2017.9.25)  9 DEC 2017 14:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2017.9.25)  9 DEC 2017 14:36
 entering extended mode
 **./presentacion.tex
 (presentacion.tex
@@ -1282,7 +1282,7 @@ line 150.
 \ot1mathkerncmss.fd"
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-) <net.JPG, id=124, 1013.28563pt x 356.83313pt>
+) <net.JPG, id=130, 1013.28563pt x 356.83313pt>
 File: net.JPG Graphic file (type jpg)
 
 <use net.JPG>
@@ -1306,7 +1306,7 @@ Overfull \hbox (65.7375pt too wide) in paragraph at lines 150--150
 ] [9
 
 ]
-<partes_Netlogo.JPG, id=301, 368.1253pt x 291.33844pt>
+<partes_Netlogo.JPG, id=308, 368.1253pt x 291.33844pt>
 File: partes_Netlogo.JPG Graphic file (type jpg)
 
 <use partes_Netlogo.JPG>
@@ -1315,6 +1315,14 @@ Package pdftex.def Info: partes_Netlogo.JPG used on input line 242.
  [10
 
  <./partes_Netlogo.JPG>]
+\openout4 = `presentacion.vrb'.
+
+ (presentacion.vrb)
+[11
+
+] [12
+
+]
 \tf@nav=\write6
 \openout6 = `presentacion.nav'.
 
@@ -1324,22 +1332,22 @@ Package pdftex.def Info: partes_Netlogo.JPG used on input line 242.
 \tf@snm=\write8
 \openout8 = `presentacion.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 244.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 244.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 283.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 283.
  (presentacion.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 244.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 244.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 283.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 283.
 Package rerunfilecheck Info: File `presentacion.out' has not changed.
-(rerunfilecheck)             Checksum: 631C0E6E81BDEF4DC5D91D0117FA26D7;224.
+(rerunfilecheck)             Checksum: 5DBC05E229C6D2A8CB1A6484BDF5301B;291.
  ) 
 Here is how much of TeX's memory you used:
- 18103 strings out of 493634
- 348090 string characters out of 3133607
+ 18119 strings out of 493634
+ 348262 string characters out of 3133607
  420073 words of memory out of 3000000
- 21030 multiletter control sequences out of 15000+200000
+ 21038 multiletter control sequences out of 15000+200000
  10390 words of font info for 38 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  56i,16n,62p,781b,814s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1347,9 +1355,9 @@ Here is how much of TeX's memory you used:
 onts/cm/cmss10.pfb><C:/Users/LuisOlaya/AppData/Local/Programs/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmss12.pfb><C:/Users/LuisOlaya/AppData/Local/Programs/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on presentacion.pdf (10 pages, 224820 bytes).
+Output written on presentacion.pdf (12 pages, 239797 bytes).
 PDF statistics:
- 349 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 411 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
